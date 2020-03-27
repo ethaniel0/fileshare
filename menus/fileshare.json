@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Load fileshare",
+        "command": "fileshare:load"
+      },
+      {
+        "label": "Save fileshare",
+        "command": "fileshare:saveFile"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fileshare",
+          "submenu": [
+            {
+              "label": "Load fileshare",
+              "command": "fileshare:load"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

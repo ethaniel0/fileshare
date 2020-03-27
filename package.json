@@ -1,0 +1,18 @@
+{
+  "name": "fileshare",
+  "main": "./lib/fileshare",
+  "version": "0.0.0",
+  "description": "custom file sharing plugin that connects to my custom server and database",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "fileshare:load"
+  },
+  "repository": "https://github.com/ethaniel0/fileshare",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
