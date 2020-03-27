@@ -1,6 +1,0 @@
-{
-  "atom-workspace": {
-    "ctrl-alt-l": "fileshare:load",
-    "ctrl-alt-s": "fileshare:saveFile"
-  }
-}
